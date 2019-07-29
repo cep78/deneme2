@@ -10,7 +10,7 @@ namespace deneme2
     {
         static void Main(string[] args)
         {
-            Console.Write("...");
+            
             Console.Read();
         }
     }
